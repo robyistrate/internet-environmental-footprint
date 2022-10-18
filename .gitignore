@@ -126,6 +126,7 @@ dmypy.json
 /tutorials
 /reports
 */old
+/old
 
 # Ignore temporarily?
 /temp*
