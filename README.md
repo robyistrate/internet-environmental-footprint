@@ -9,5 +9,6 @@ To ensure the replication of the results presented in the paper, it is highly re
 ```
 conda create -n ef_internet
 conda activate ef_internet
+conda cd your/repository
 pip install -r requirements.txt
 ```
