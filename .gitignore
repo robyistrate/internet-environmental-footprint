@@ -121,6 +121,7 @@ dmypy.json
 # Specific folders
 !/data/
 !/data/processed/
+!/data/raw/
 /examples
 /refs
 /tutorials
