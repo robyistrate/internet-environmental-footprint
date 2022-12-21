@@ -119,13 +119,12 @@ dmypy.json
 .pylint.d
 
 # Specific folders
-!/data/
-!/data/processed/
-/data/raw/
+data/raw
+/reports
 /examples
 /refs
 /tutorials
-/reports
+
 */old
 /old
 
