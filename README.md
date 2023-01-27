@@ -30,3 +30,9 @@ pip install -r requirements.txt
 
 Once in the new environment, run the notebooks following the order described above. Further details are provided in the corresponding notebooks
 
+## DOI
+
+Version identifier: ![DOI](https://zenodo.org/badge/553467410.svg)
+
+
+
