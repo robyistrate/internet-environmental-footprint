@@ -32,7 +32,7 @@ Once in the new environment, run the notebooks following the order described abo
 
 ## DOI
 
-Version identifier: ![DOI](https://zenodo.org/badge/553467410.svg)
+Version identifier: ![DOI](https://zenodo.org/badge/8122381.svg)
 
 
 
