@@ -2,7 +2,7 @@
 
 ## Description
 
-Repository to share the code used in the scientific article **Istrate *et al.*, The role of digital content consumption in environmentally sustainable lifestyles**. The repository contains data files and tailored notebooks to create the LCI database and reproduce the results presented in the article.
+Repository to share the code used in the scientific article **Istrate *et al.*, On the environmental sustainability of digital content consumption**. The repository contains data files and tailored notebooks to create the LCI database and reproduce the results presented in the article.
 
 The data folder includes:
 - `LCI_Digital-Content-Consumption.xlsx` inventory data in a suitable format to be imported into [Brightway2](https://github.com/brightway-lca)
