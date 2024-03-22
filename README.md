@@ -24,7 +24,7 @@ To ensure the replication of the results presented in the article, it is highly 
 ```
 conda create -n ef_internet python==3.10.2
 conda activate ef_internet
-conda cd your/repository
+cd your/repository
 pip install -r requirements.txt
 ```
 
