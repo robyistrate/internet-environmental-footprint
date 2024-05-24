@@ -8,9 +8,9 @@ message: >-
   from this file.
 type: dataset
 authors:
-  - given-names: Ioan-Robert
+  - given-names: Robert
     family-names: Istrate
-    affiliation: ETH Zürich
+    affiliation: Leiden University
     orcid: 'https://orcid.org/0000-0002-3409-9702'
 identifiers:
   - type: doi
@@ -19,8 +19,9 @@ repository-code: >-
   https://github.com/robyistrate/internet-environmental-footprint
 abstract: >-
   Repository to share the code used in the scientific
-  article Istrate et al., The role of digital content
-  consumption in environmentally sustainable lifestyles. The
+  article Istrate et al. The environmental sustainability 
+  of digital content consumption. Nat Commun 15, 3724 (2024). 
+  https://doi.org/10.1038/s41467-024-47621-w. The
   repository contains data files and tailored notebooks to
   create the LCI database and reproduce the results
   presented in the article.
